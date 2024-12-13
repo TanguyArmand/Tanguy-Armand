@@ -1,5 +1,3 @@
-# Tanguy-Armand
-Tanguy Armand's CV
 ## Hi there 👋 
 
 **romankh3/romankh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
